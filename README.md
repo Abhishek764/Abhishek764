@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek764" alt="abhishek764" /></a> </p>
 
-- 🌱 I’m currently learning **React , Solidity,Hardhat, Ether.js**
+- 🌱 I’m currently learning **React.js,Next.js, Solidity,Hardhat, Ether.js**
 
-- 📫 How to reach me **Abhishekweb65@gmail.com**
+- 📫 How to reach me **abhishekweb65@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
