@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">A passionate Mern Stack developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek764&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek764" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek764" alt="abhishek764" /></a> </p>
 
-- 🌱 I’m currently learning **React.js,Next.js, Solidity,Hardhat, Ether.js**
+- 🌱 I’m currently learning **Ansible, HCL**
 
-- 📫 How to reach me **abhishekweb65@gmail.com**
+- 📫 How to reach me **work.abhishek91@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
