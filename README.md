@@ -8,14 +8,11 @@
 <h1> About </h1> 
     
 <p>
-  Hey there! I’m Abhishek, a Computer Science undergrad and passionate web developer, driven by a love for technology, innovation, and community impact. 👨‍💻 <br><br>
-
-  I'm deeply fascinated by the intersection of emerging tech and real-world problem-solving. My journey revolves around exploring the dynamic worlds of <strong>Web Development</strong>, <strong>Cloud Computing</strong>, <strong>DevOps</strong>, <strong>Docker</strong>, <strong>Kubernetes</strong>, and now diving into <strong>AI/ML</strong> and <strong>Cybersecurity</strong>. <br><br>
-
-  With an eagerness to build and contribute, I actively seek opportunities to work on impactful projects, especially in <strong>open-source communities</strong>, where collaboration and shared learning truly shine. <br><br>
-
-  As I continue honing my skills and expanding my horizons, I’m excited to connect with fellow tech enthusiasts, embrace new challenges, and create meaningful solutions that shape a better, tech-driven future. Let’s build something amazing together!
+  Hey! I’m Abhishek, a Computer Science undergrad and passionate web developer 👨‍💻. <br><br>
+  I explore the worlds of <strong>Web Development</strong>, <strong>Cloud</strong>, <strong>DevOps</strong>, <strong>Docker</strong>, <strong>Kubernetes</strong>, and recently <strong>AI/ML</strong> & <strong>Cybersecurity</strong>. <br><br>
+  I love building impactful projects, especially in <strong>open-source communities</strong>, and enjoy collaborating to create meaningful solutions. Let’s build something amazing together!
 </p>
+
 
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](/contributiongrid.svg)
 
