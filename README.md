@@ -1,6 +1,6 @@
 <div align="center">
 
-<video src="https://github.com/user-attachments/assets/1decc51e-fdbc-4c5d-a6c8-ff64b75cb22c" autoplay loop muted playsinline width="100%"></video>
+<img src="Matching Wallpaper of _Firewatch Tower (White Edit…bbu.jpg" width="100%" alt="banner"/>
 
 
 ## Know About Me
