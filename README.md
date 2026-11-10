@@ -2,10 +2,17 @@
 
 <img src="Matching Wallpaper of _Firewatch Tower (White Edit…bbu.jpg" width="100%" alt="banner"/>
 
+<br/>
 
-## Know About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=5BCEFA&center=true&vCenter=true&width=700&lines=Web+Dev+%7C+Cloud+%7C+DevOps+%7C+AI%2FML+%7C+Security;Designing+systems+by+day%2C+questioning+them+by+night;Still+learning.+Always+building.)](https://github.com/Abhishek764)
 
-<div align="left">
+<img src="https://komarev.com/ghpvc/?username=Abhishek764&style=flat-square&color=5BCEFA&label=PROFILE+VIEWS" alt="profile views"/>
+
+</div>
+
+---
+
+## ✦ Know About Me
 
 <img align="right" src="Flor ASCII Art.jpg" width="220" alt="Flor ASCII Art"/>
 
@@ -17,11 +24,11 @@ I find meaning in open-source: shipping real work into the world, not just side 
 
 <br clear="right"/>
 
-</div>
-
 ---
 
-## Tech
+<div align="center">
+
+## ✦ Tech
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -34,13 +41,15 @@ I find meaning in open-source: shipping real work into the world, not just side 
 
 ---
 
-## Connect
+## ✦ Connect
 
 [![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek764)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kumar-831056237/)
 [![Twitter](https://img.shields.io/badge/TWITTER-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Abhishe79827496)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhi_fv/)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.abhishek91@gmail.com)
+
+</div>
 
 ---
 
@@ -50,18 +59,18 @@ I find meaning in open-source: shipping real work into the world, not just side 
 
 ---
 
-## Open Source
+<div align="center">
 
-Shipping real work into projects people run in production — features, bug fixes and reviews:
+## ✦ Stats
 
-- **[cognee](https://github.com/topoteretes/cognee)** — in-place node-set migration (move documents between sets with no LLM re-extraction / re-embed), UTF-16 PII-scan fix
-- **[SigNoz](https://github.com/SigNoz/signoz)** — duration/unit formatter fixes, password-validation hardening, value-panel v5 response handling
-- **[React](https://github.com/facebook/react)** — Scheduler guard against re-entrant `MessageChannel` events
-- **[Internet Archive · Open Library](https://github.com/internetarchive/openlibrary)** — reader session handoff + MARC-record loading fixes
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhishek764&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek764&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="top languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek764&theme=tokyonight&hide_border=true" alt="streak" width="500"/>
 
 ---
 
-## Contribution
+## ✦ Contribution
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhishek764/Abhishek764/output/github-contribution-grid-snake-dark.svg" />
@@ -71,7 +80,6 @@ Shipping real work into projects people run in production — features, bug fixe
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=abhishek764&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhishek764&theme=dark&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishek764&theme=tokyo-night&hide_border=true&area=true&color=5BCEFA&line=5BCEFA&point=ffffff)
 
 </div>
