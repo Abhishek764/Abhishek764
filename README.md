@@ -4,9 +4,9 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=D2691E&center=true&vCenter=true&width=700&lines=Web+Dev+%7C+Cloud+%7C+DevOps+%7C+AI%2FML+%7C+Security;Designing+systems+by+day%2C+questioning+them+by+night;Still+learning.+Always+building.)](https://github.com/Abhishek764)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Web+Dev+%7C+Cloud+%7C+DevOps+%7C+AI%2FML+%7C+Security;Designing+systems+by+day%2C+questioning+them+by+night;Still+learning.+Always+building.)](https://github.com/Abhishek764)
 
-<img src="https://komarev.com/ghpvc/?username=Abhishek764&style=flat-square&color=D2691E&label=PROFILE+VIEWS" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Abhishek764&style=flat-square&color=555555&label=PROFILE+VIEWS" alt="profile views"/>
 
 </div>
 
@@ -30,14 +30,14 @@ I find meaning in open-source: shipping real work into the world, not just side 
 
 ## ✦ Tech
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=D2691E)
-![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=D2691E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=D2691E)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=D2691E)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=D2691E)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=D2691E)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=D2691E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=D2691E)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -66,7 +66,7 @@ I find meaning in open-source: shipping real work into the world, not just side 
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishek764&theme=github_dark" alt="stats"/>
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishek764&theme=github_dark" alt="most used languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek764&hide_border=false&background=0D1117&border=30363D&stroke=FFFFFF&ring=D2691E&fire=D2691E&currStreakNum=FFFFFF&currStreakLabel=D2691E&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E" alt="streak" width="500"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek764&hide_border=false&background=0D1117&border=30363D&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E" alt="streak" width="500"/>
 
 ---
 
