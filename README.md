@@ -78,8 +78,4 @@ I find meaning in open-source: shipping real work into the world, not just side 
   <img alt="Abhishek's contribution snake animation" src="https://raw.githubusercontent.com/Abhishek764/Abhishek764/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<br/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishek764&theme=tokyo-night&hide_border=true&area=true&color=5BCEFA&line=5BCEFA&point=ffffff)
-
 </div>
