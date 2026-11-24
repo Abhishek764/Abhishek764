@@ -10,6 +10,10 @@
 &nbsp;
 <a href="https://www.linkedin.com/in/abhishek-kumar-831056237/"><img src="https://img.shields.io/badge/-Say%20Hi-0D1117?style=flat-square&logo=handshake&logoColor=white" alt="say hi"/></a>
 
+<br/>
+
+<img src="globe.gif" width="230" alt="rotating particle globe"/>
+
 </div>
 
 ---
